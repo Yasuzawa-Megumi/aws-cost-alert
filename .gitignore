@@ -19,6 +19,3 @@ var/
 # Serverless directories
 .serverless
 conf.yml
-
-# image
-img
